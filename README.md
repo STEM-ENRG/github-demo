@@ -48,5 +48,5 @@ git push -u origin <your-branch-name>
 
 4. [Create a new pull request on this repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
-CONGRATS - YOU DID IT
+<h2>CONGRATS - YOU DID IT</h2>
 <img src="https://media2.giphy.com/media/RX7N03MEUafW8/giphy.webp?cid=ecf05e476q97sec4h48sindwbyhzr1ks5fc3l0ejdoph2dl7&rid=giphy.webp&ct=g">
