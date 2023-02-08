@@ -18,8 +18,13 @@ ul {
     text-align: left;
 }
 
-p, .link-to-page {
+p, .link-to-page, li {
     font-size: 20px;
+}
+
+p.warning {
+    color: #ff0000;
+    font-weight: bold;
 }
 
 a.link-to-page {
@@ -27,6 +32,6 @@ a.link-to-page {
     text-align: center;
 }
 
-h1, li {
+h1 {
     font-size: 35px;
 }
