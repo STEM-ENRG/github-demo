@@ -1,0 +1,32 @@
+body {
+    background-color: #E0FFFF;
+}
+
+h1, p, div.container {
+    text-align: center;
+}
+
+img, .your-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+p, .link-to-page {
+    font-size: 20px;
+}
+
+a.link-to-page {
+    display: block;
+    text-align: center;
+}
+
+h1, li {
+    font-size: 35px;
+}
