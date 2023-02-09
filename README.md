@@ -9,7 +9,7 @@ Follow these steps to start developing locally on this repository!
 2. Once the repository is forked, clone it by running the following command in your terminal:
 
 ```
-git@github.com:<your-username>/github-demo.git
+git clone git@github.com:<your-username>/github-demo.git
 ```
 
 3. Set this repository as a git remote:
