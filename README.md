@@ -43,20 +43,26 @@ git checkout -b <your-branch-name>
 
 3. Add and commit your changes
 
-`git add .`
+```
+git add .
+```
 
 Then:
 
-`git commit -m "added my changes"`
+```git commit -m "added my changes"```
 
 4. Push to your forked repo:
 ```
 git push -u origin <your-branch-name>
 ```
+
 Ex. if your branch name was tiffany
 
 Then you would type:
-`git push -u origin tiffany`
+
+```
+git push -u origin tiffany
+```
 
 5. [Create a new pull request on this repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
