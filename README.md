@@ -49,7 +49,9 @@ git add .
 
 Then:
 
-```git commit -m "added my changes"```
+```
+git commit -m "added my changes"
+```
 
 4. Push to your forked repo:
 ```
