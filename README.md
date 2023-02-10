@@ -39,14 +39,26 @@ This command should open in a browser
 git checkout -b <your-branch-name>
 ```
 
-2. Implement your changes and commit them to the branch.
+2. Add your changes in the index.html and add a html file in the your-turn directory (there additional comments in the code to help you with this)
 
-3. Push to your forked repo:
+3. Add and commit your changes
+
+`git add .`
+
+Then:
+
+`git commit -m "added my changes"`
+
+4. Push to your forked repo:
 ```
 git push -u origin <your-branch-name>
 ```
+Ex. if your branch name was tiffany
 
-4. [Create a new pull request on this repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
+Then you would type:
+`git push -u origin tiffany`
+
+5. [Create a new pull request on this repository](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)
 
 <h2>CONGRATS - YOU DID IT</h2>
 <img src="https://media2.giphy.com/media/RX7N03MEUafW8/giphy.webp?cid=ecf05e476q97sec4h48sindwbyhzr1ks5fc3l0ejdoph2dl7&rid=giphy.webp&ct=g">
