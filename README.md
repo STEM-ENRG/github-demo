@@ -12,12 +12,7 @@ Follow these steps to start developing locally on this repository!
 git clone git@github.com:<your-username>/github-demo.git
 ```
 
-3. Set this repository as a git remote:
-```
-git remote add upstream git@github.com:STEM-ENRG/github-demo.git
-```
-
-4. Make sure you're in the directory of the project
+3. Make sure you're in the directory of the project
 ```
 ls
 ```
@@ -26,6 +21,11 @@ The response should have these contents
 
 If you don't see that, then you'll need to navigate to the correct directory/folder
 `cd github-demo` then `ls` to check again to verify your directory looks like the above image
+
+4. Set this repository as a git remote:
+```
+git remote add upstream git@github.com:STEM-ENRG/github-demo.git
+```
 
 5. Open the html file in your browser
 ```
